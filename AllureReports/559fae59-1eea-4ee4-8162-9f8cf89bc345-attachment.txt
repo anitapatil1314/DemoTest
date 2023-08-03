@@ -1,0 +1,1 @@
+mul of a and b is :21
